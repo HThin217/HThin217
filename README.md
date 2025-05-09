@@ -1,49 +1,32 @@
-# 👋 Xin chào! Tôi là Thịnh
+# Hi there, I'm Hung Thinh 👋
 
-👨‍💻 Lập trình viên Mobile chuyên về Flutter  
-💼 Có kinh nghiệm với Node.js (Express, REST API)  
-🚀 Luôn sẵn sàng học hỏi và tham gia vào những dự án thực tế
+I'm a passionate Blockchain Developer with experience in building decentralized applications (dApps) and smart contracts. My focus is on Ethereum development using **Solidity** for writing smart contracts and **Node.js** for backend development. I specialize in integrating blockchain solutions with off-chain databases like **MongoDB** to create scalable and efficient applications.
 
----
+## 🚀 Technical Skills
 
-## 💡 Về tôi
-Tôi là một lập trình viên đam mê phát triển ứng dụng di động, đặc biệt là với Flutter – framework giúp tôi tạo ra các ứng dụng đa nền tảng nhanh chóng và hiệu quả. Tôi cũng có kinh nghiệm xây dựng backend với Node.js, sử dụng Express để xây dựng các API phục vụ cho ứng dụng mobile.
+- **Blockchain Development**: Solidity, Ethereum
+- **Smart Contracts**: ERC-20, ERC-721, Decentralized Finance (DeFi) Protocols
+- **Backend Development**: Node.js, Express.js
+- **Database**: MongoDB
+- **Blockchain Interaction**: Web3.js, Ethers.js
+- **Development Tools**: Hardhat, Truffle, Ganache, Infura
+- **Version Control**: Git, GitHub
 
-Tôi luôn hướng tới việc viết mã sạch, tối ưu hiệu suất và dễ bảo trì.
+## 🌱 Currently Learning
 
----
+- Expanding knowledge in **DeFi protocols** and **NFTs** on Ethereum.
 
-## 🛠️ Kỹ năng chính
+## 📈 Projects
 
-### Mobile
-- ✅ Flutter (Dart)
-- ✅ State management: BLoC, Provider
-- ✅ Firebase (Auth, Firestore, Storage)
-- ✅ Push Notifications, Camera, Location, Google Maps
+- **DeFi App**: A decentralized finance application built with Solidity smart contracts, integrating MongoDB for off-chain storage, and Node.js for backend services.
+- **NFT Marketplace**: A decentralized platform to buy and sell NFTs, utilizing Solidity for smart contract development and MongoDB for user and item data storage.
 
-### Backend
-- ✅ Node.js & Express
-- ✅ RESTful APIs
-- ✅ MongoDB / Firebase Realtime DB
+## 📫 How to Reach Me
 
-### Khác
-- ✅ Git & GitHub
-- ✅ Postman, Figma
-- ✅ CI/CD cơ bản với Firebase Hosting hoặc App Distribution
+- Email: hthin217@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/thai-hung-thinh-601237233/
+- GitHub: https://github.com/HThin217
+
+Feel free to check out my repositories for more projects and contributions!
 
 ---
-
-## 📈 Mục tiêu cá nhân
-- 🌱 Tiếp tục nâng cao kỹ năng Flutter và Dart nâng cao
-- 🧠 Học thêm về kiến trúc ứng dụng sạch (clean architecture)
-- 📦 Tìm hiểu sâu hơn về DevOps và microservices
-- 🌍 Mong muốn cộng tác trong những dự án có tính thực tiễn cao
-
----
-
-## 📫 Liên hệ
-- Email: [hthin217gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/thai-hung-thinh-601237233/](https://www.linkedin.com/in/thai-hung-thinh-601237233/)
-- GitHub: [https://github.com/HThin217](https://github.com/HThin217)
-
-Cảm ơn bạn đã ghé thăm!
